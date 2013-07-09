@@ -477,3 +477,12 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
+
+/* Custom */
+
+#main-content ol#checklist li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none !important;
+}
